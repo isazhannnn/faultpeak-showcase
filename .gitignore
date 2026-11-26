@@ -1,0 +1,4 @@
+.review/
+.env
+.env.*
+*.log
