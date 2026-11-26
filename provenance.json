@@ -1,0 +1,13 @@
+{
+  "project": "FAULTPEAK",
+  "origin": "https://parsec.kz/",
+  "attribution": "Copyright (c) 2026 parsec.kz",
+  "marker": "fp-parsec-2026",
+  "assets": {
+    "NOTICE.txt": "2a27f1f329a20542c1cd35287ce5ed0dfc1d519f7fda8dfbaf05d492eb54831d",
+    "README.md": "bb2ad41a4cf9b982230a0197f23abea49e3592e0f63270deb368f1714085e56a",
+    "screenshots/desktop.png": "b1ab1866c5adaca74a439a6d33ca2eff0102e20889221852661550a92732457b",
+    "screenshots/mobile.png": "aa6ea43b4ccfc84bd3de774a277cf82c905c0d03f4e1313a92265f4bbbe44f5a",
+    "screenshots/workbench.png": "26798f331e9df83f39b665a98565206a1ff69081184f72d92a99d2e84e05d7c7"
+  }
+}

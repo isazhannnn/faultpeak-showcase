@@ -1,0 +1,6 @@
+Copyright (c) 2026 parsec.kz. All rights reserved.
+
+FAULTPEAK original project materials are published for viewing and evaluation.
+No permission is granted here to reuse, redistribute or sell original source,
+branding or artwork. Contact https://parsec.kz/ for permission.
+Third-party components retain their own licenses.
